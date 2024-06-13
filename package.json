@@ -1,6 +1,6 @@
 {
   "name": "@ludlovian/serialize-json",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Serilalize and deserialize JSON",
   "main": "src/index.mjs",
   "exports": {
